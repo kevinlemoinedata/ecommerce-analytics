@@ -42,12 +42,13 @@ Ce jeu de données volontairement léger permet de se concentrer sur la logique 
 
 ---
 
-## 🔎 Insights business
-- Le **CA total** atteint environ **15 000 €** sur 3 mois.  
-- Le **panier moyen** est de **~130 €**, avec une majorité de commandes entre 50–150 €.  
-- Environ **30 % des clients génèrent 80 % du chiffre d’affaires** (effet Pareto).  
-- Les **catégories Sports et Électronique** concentrent la majorité du revenu.  
-- Une **baisse du CA** est observée en septembre : à surveiller (saisonnalité ou perte de fidélité client).
+## 🔍 Insights business
+
+- Le **CA total** atteint environ **15 000 €** sur 3 mois, avec un **panier moyen** d’environ **130 €**.  
+- La majorité des commandes se situent entre **50 et 150 €**, quelques gros paniers tirant la moyenne vers le haut.  
+- Environ **30 % des clients génèrent 80 % du chiffre d’affaires** → enjeu de fidélisation des “clients VIP”.  
+- Les **catégories Sport et Électronique** concentrent la majeure partie du revenu, portées par des produits comme les *Running Shoes* et le *Fitness Tracker*.  
+- Une **baisse du CA en septembre** suggère un possible effet de **saisonnalité** ou de **baisse de réachat** à surveiller.
 
 ---
 
